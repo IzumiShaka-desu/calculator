@@ -6,11 +6,11 @@ Calculator Apps.
 
 project calculator Mentoring udacoding week 2
 
-A few resources to get you started if this is your first Flutter project:
+screenshot:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[![Screenshot](https://raw.githubusercontent.com/IzumiShaka-desu/calculator/master/screenshots/a1.png)](#features)
+[![Screenshot](https://raw.githubusercontent.com/IzumiShaka-desu/calculator/master/screenshots/a2.png)](#features)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+- [link apk file](https://flutter.dev/docs/cookbook)
+
