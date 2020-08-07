@@ -1,10 +1,10 @@
 # calculator
 
-A new Flutter project.
+Calculator Apps.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+project calculator Mentoring udacoding week 2
 
 A few resources to get you started if this is your first Flutter project:
 
