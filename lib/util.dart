@@ -46,10 +46,16 @@ bool isOperator(String str) {
 
 addOperation(String operation, String mOperator) {
   try {
-    if (operation.length < 3) {
-      if (mOperator == ' - ') operation += mOperator;
-    } else if (!isOperator(operation[operation.length - 2])) {
-      operation += mOperator;
+    if (operation.isNotEmpty) {
+      if (operation.length < 3) {
+        operation += mOperator;
+      } else if (!isOperator(operation[operation.length - 2])) {
+        operation += mOperator;
+      }
+    } else {
+      if (mOperator == ' - ') {
+        operation += mOperator;
+      }
     }
   } catch (e) {
     print(e);
